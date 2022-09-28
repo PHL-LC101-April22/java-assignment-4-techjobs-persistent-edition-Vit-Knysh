@@ -1,6 +1,6 @@
 package org.launchcode.techjobs.persistent.models;
 
-import javax.persistence.*;
+import javax.   persistence.*;
 
 @Entity
 public class Job{
